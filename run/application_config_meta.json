@@ -1,0 +1,319 @@
+{
+  "keys": "/Users/wangmiao/code/mycode/egg_study/config/config.default.js",
+  "middleware": "/Users/wangmiao/code/mycode/egg_study/config/config.default.js",
+  "printdate": {
+    "test_str": "/Users/wangmiao/code/mycode/egg_study/config/config.default.js"
+  },
+  "gzip": {
+    "threshold": "/Users/wangmiao/code/mycode/egg_study/config/config.default.js"
+  },
+  "forbidIP": {
+    "forbidip": "/Users/wangmiao/code/mycode/egg_study/config/config.default.js"
+  },
+  "session": {
+    "key": "/Users/wangmiao/code/mycode/egg_study/config/config.default.js",
+    "maxAge": "/Users/wangmiao/code/mycode/egg_study/config/config.default.js",
+    "httpOnly": "/Users/wangmiao/code/mycode/egg_study/config/config.default.js",
+    "renew": "/Users/wangmiao/code/mycode/egg_study/config/config.default.js",
+    "encrypt": "/Users/wangmiao/code/mycode/egg_study/config/config.default.js"
+  },
+  "view": {
+    "mapping": {
+      ".html": "/Users/wangmiao/code/mycode/egg_study/config/config.default.js"
+    },
+    "root": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-view/config/config.default.js"
+  },
+  "api": "/Users/wangmiao/code/mycode/egg_study/config/config.default.js",
+  "security": {
+    "domainWhiteList": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-static/config/config.default.js"
+  },
+  "ejs": {
+    "root": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-view-ejs/config/config.default.js",
+    "cache": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-view-ejs/config/config.local.js",
+    "debug": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-view-ejs/config/config.default.js",
+    "compileDebug": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-view-ejs/config/config.default.js",
+    "delimiter": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-view-ejs/config/config.default.js",
+    "strict": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg-view-ejs/config/config.default.js"
+  },
+  "env": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+  "name": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "version": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "description": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "private": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "egg-view-ejs": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "koa-is-json": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "silly-datetime": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "zlib": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "stop": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "dev": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "debug": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "test": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "cov": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "lint": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "ci": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "autod": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "url": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "license": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "strict": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "depth": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "env": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "level": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "logging": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "port": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/wangmiao/code/mycode/egg_study/node_modules/egg/config/config.default.js"
+}
